@@ -1,0 +1,131 @@
+{
+         "uuid":"64350b50-a810-4901-b86b-7a5106bdef2c",
+         "title": "儿童",
+         "channels": [
+       {
+            "name": "金鹰卡通",
+            "url": "http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8",
+        },
+        {
+            "name": "金鹰卡通",
+            "url": "http://223.82.250.72/live/jinyingkaton/1.m3u8",
+        },
+        {
+            "name": "动画王国",
+            "url": "http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8",
+        },
+        {
+            "name": "动画-88-优漫卡通",
+            "url": "http://223.110.243.171/PLTV/3/224/3221226982/index.m3u8",
+        },
+        {
+            "name": "动画-动漫秀场HD",
+            "url": "http://183.207.249.15/PLTV/2/224/3221226037/index.m3u8",
+        },
+        {
+            "name": "猫和老鼠",
+            "url": "https://aldirect.hls.huya.com/huyalive/94525224-2475824398-10633584820048887808-2847687532-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "喵咪Miao-Mi",
+            "url": "https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8",
+        },
+        {
+            "name": "金鹰卡通",
+            "url": "http://223.110.242.130:6610/cntv/live1/jinyingkaton/1.m3u8",
+        },
+        {
+            "name": "KAKU少儿",
+            "url": "http://223.110.242.130:6610/cntv/live1/kakukaton/1.m3u8",
+        },
+        {
+            "name": "炫动卡通",
+            "url": "http://223.110.242.130:6610/cntv/live1/xuandongkaton/1.m3u8",
+        },
+        {
+            "name": "嘉佳卡通",
+            "url": "http://nclive.grtn.cn/jjkt/sd/live.m3u8",
+        },
+        {
+            "name": "广东少儿",
+            "url": "http://nclive.grtn.cn/tvs5/sd/live.m3u8",
+        },
+        {
+            "name": "江苏移动-CCTV14",
+            "url": "http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221225813/index.m3u8",
+        },
+        {
+            "name": "江苏移动-嘉佳卡通",
+            "url": "http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221226099/index.m3u8",
+        },
+        {
+            "name": "江苏移动-卡卡少儿",
+            "url": "http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221226097/index.m3u8",
+        },
+        {
+            "name": "江苏移动-炫动卡通1",
+            "url": "http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225694/index.m3u8",
+        },
+        {
+            "name": "江苏移动-炫动卡通2",
+            "url": "http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221226388/index.m3u8",
+        },
+        {
+            "name": "Newtv动画王国2",
+            "url": "http://183.207.249.8/PLTV/3/224/3221225555/index.m3u8",
+        },
+        {
+            "name": "广东嘉佳卡通",
+            "url": "http://183.207.249.9/PLTV/2/224/3221226099/index.m3u8",
+        },
+        {
+            "name": "山东济南少儿",
+            "url": "http://ts2.ijntv.cn/jnse/sd1/live.m3u8",
+        },
+        {
+            "name": "济南少儿频道",
+            "url": "http://ts2.ijntv.cn/jnse/sd1/live.m3u8?_upt=c3e918011515232399",
+        },
+        {
+            "name": "河北少儿",
+            "url": "http://weblive.hebtv.com/live/hbse_bq/index.m3u8",
+        },
+        {
+            "name": "甘肃少儿频道",
+            "url": "http://stream.gstv.com.cn/sepd/sd/live.m3u8",
+        },
+        {
+            "name": "熊猫ipanda",
+            "url": "http://112.50.243.10/PLTV/88888888/224/3221226580/index.m3u8",
+        },
+        {
+            "name": "熊猫ipanda",
+            "url": "http://112.50.243.10/PLTV/88888888/224/3221226581/index.m3u8",
+        },
+        {
+            "name": "熊猫ipanda",
+            "url": "http://112.50.243.10/PLTV/88888888/224/3221226585/index.m3u8",
+        },
+        {
+            "name": "熊猫ipanda",
+            "url": "http://112.50.243.10/PLTV/88888888/224/3221226589/index.m3u8",
+        },
+        {
+            "name": "熊猫ipanda",
+            "url": "http://112.50.243.10/PLTV/88888888/224/3221226611/index.m3u8",
+        },
+        {
+            "name": "熊猫ipanda",
+            "url": "http://112.50.243.10/PLTV/88888888/224/3221226615/index.m3u8",
+        },
+        {
+            "name": "熊猫ipanda",
+            "url": "http://112.50.243.10/PLTV/88888888/224/3221226619/index.m3u8",
+        },
+        {
+            "name": "熊猫ipanda",
+            "url": "http://112.50.243.10/PLTV/88888888/224/3221226597/index.m3u8"  
+        }
+        
+    ]
+}
