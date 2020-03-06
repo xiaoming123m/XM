@@ -1,0 +1,472 @@
+{
+         "uuid":"64350b50-a810-4901-b86b-7a5106bdef2c",
+         "title": "外国",
+         "channels": [
+        {
+            "name": "MTV英国",
+            "url": "http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8",
+        },
+        {
+            "name": "美国芝加哥WGN9频道HD",
+            "url": "http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8",
+        },
+        {
+            "name": "美国Deutsche Welle",
+            "url": "http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8",
+        },
+        {
+            "name": "美国360 North",
+            "url": "http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8",
+        },
+        {
+            "name": "美国Fox News Talk Radio",
+            "url": "http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8",
+        },
+        {
+            "name": "美国Red Bull TV SD",
+            "url": "http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8",
+        },
+        {
+	"name":"BLOOMBERG HD",
+	"url": "https://bblive-liveproduseast.hs.llnwd.net/btv/desktop/us_live.m3u8"
+		},
+		{
+			"name":"彭博澳洲",
+			"url": "https://bblive-liveprodapnortheast.hs.llnwd.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8"
+		},
+		{
+			"name":"POP USA",
+			"url": "http://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master_2500.m3u8"
+		},
+		{
+			"name":"CBS News 1",
+			"url": "http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8"
+		},
+		{
+			"name":"CBS News 2",
+			"url": "https://www.cbsnews.com/common/video/dai_prod.m3u8"
+		},
+		{
+			"name": "ABC News",
+			"url": "https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8"
+		},
+		{
+			"name":"Weather Channel",
+			"url": "https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8"
+		},
+		{
+			"name":"The Country Network",
+			"url": "https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8"
+		},	
+		{
+			"name":"美国芝加哥WGN9频道HD",
+			"url": "http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8"
+		},
+		{
+			"name":"美国CGTN (Opt-1)",
+			"url": "http://live.cgtn.com/500/prog_index.m3u8"
+		},
+		{
+			"name":"美国CGTN (Opt-2)",
+			"url": "http://live.cgtn.com/1000/prog_index.m3u8"
+		},
+		{
+			"name":"美国Beach TV - 30A",
+			"url": "http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8"
+		},
+		{
+			"name":"美国Beach TV - Panama City",
+			"url": "http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8"
+		},
+		{
+			"name":"美国Beach TV - Pawleys Island",
+			"url": "http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8"
+		},
+		{
+			"name":"加拿大CTV News Live 1",
+			"url": "http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News18.m3u8"
+		},
+		{
+			"name":"加拿大CTV News Live 2",
+			"url": "http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News28.m3u8"
+		},
+		{
+			"name":"加拿大CTV News Live 3",
+			"url": "http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News38.m3u8"
+		},
+		{
+			"name":"加拿大CTV News Live 4",
+			"url": "http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News48.m3u8"
+		},
+		{
+			"name":"Astro Arena HD",
+			"url": "http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_05.m3u8"
+		},
+		{
+			"name":"FTV",
+			"url": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8"
+		},
+		{
+			"name":"AXN",
+			"url": "http://45.126.83.51/session/fa70149a-3dea-11e9-b81a-9396b71b880b/uq2663/h/h09/01.m3u8"
+		},
+		{
+			"name": "WFC",
+			"url": "http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8"
+		},
+		{
+			"name": "英国天空新闻台",
+			"url": "http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8"
+		},
+		{
+			"name": "Bloomberg TV Europe",
+			"url": "http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8"
+		},
+		{
+			"name": "布鲁内尔音乐台",
+			"url": "http://37.48.83.34:80/radiobrunotv/radiobrunotv/playlist.m3u8"
+		},
+		{
+			"name": "意大利音乐台",
+			"url": "http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8"
+		},
+		{
+			"name": "维珍音乐摇滚台",
+			"url": "http://37.48.83.34:80/radiobrunotv/radiobrunotv/playlist.m3u8"
+		},
+		{
+			"name": "半岛电视台",
+			"url": "http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8"
+		},
+		{
+			"name": "半岛电视台",
+			"url": "http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index4147.m3u8"
+		},
+		{
+			"name": "半岛电视台",
+			"url": "http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8"
+		},
+		{
+			"name": "土耳其TRT WORLD",
+			"url": "http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8"
+		},
+		{
+			"name":"新西兰Parliament TV",
+			"url": "http://streaming.kordia.net.nz/out/u/ptv_houseaudio.m3u8"
+		},
+		{
+			"name":"新西兰Three",
+			"url": "http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8"
+		},
+		{
+			"name":"新西兰TVSN",
+			"url": "http://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8"
+		},
+		{
+			"name":"澳大利亚2UE Sydney",
+			"url": "http://syd2uevid-lh.akamaihd.net/i/sydneyuevid_1@110994/index_500_av-p.m3u8"
+		},
+		{
+			"name":"澳大利亚3AW Melbourne",
+			"url": "http://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8"
+		},
+		{
+			"name":"澳大利亚4BC Brisbane",
+			"url": "http://bris4bcvid-lh.akamaihd.net/i/brisbanebcvida_1@110989/master.m3u8"
+		},
+		
+		{
+			"name": "BBC One[uk ip]",
+			"url": "http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_hd.m3u8"
+},
+{
+			"name": "BBC Two HD[uk ip]",
+			"url": "http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_two_england.m3u8"
+},
+{
+			"name": "BBC Four HD[uk ip]",
+			"url": "http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_four.m3u8"
+},
+{
+			"name": "CBBC HD[uk ip]",
+			"url": "http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbbc.m3u8"
+},
+{
+			"name": "CBeebies HD[uk ip]",
+			"url": "http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbeebies.m3u8"
+},
+{
+			"name": "BBC News HD[uk ip]",
+			"url": "http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_news24.m3u8"
+},
+{
+            "name": "CBSNews",
+            "url": "http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8",
+        },
+        {
+            "name": "ABCNews",
+            "url": "https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8",
+        },
+        {
+            "name": "CNN-News-18",
+            "url": "http://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_5.m3u8",
+        },
+        {
+            "name": "CNBC-18-News",
+            "url": "https://cnbctv18-lh.akamaihd.net/i/cnbc_tv18_hls_n_1@174868/index_5_av-p.m3u8",
+        },
+        {
+            "name": "CNBC-Awaaz",
+            "url": "https://cnbc_awaaz_hls-lh.akamaihd.net/i/cnbc_awaaz_hls_n_1@174872/index_5_av-p.m3u8",
+        },
+        {
+            "name": "BBC-Toronto",
+            "url": "http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8",
+        },
+        {
+            "name": "IBC-Bakthi",
+            "url": "https://cdn.ibctamil.com/ibc-bakthi/smil:ibcbakthi.smil/index.m3u8",
+        },
+        {
+            "name": "IBC-Tamil-Comedy",
+            "url": "https://cdn.ibctamil.com/ibc-comedy/smil:ibccomedy.smil/chunklist.m3u8",
+        },
+        {
+            "name": "IBC-Tamil-Music",
+            "url": "https://cdn.ibctamil.com/ibc-music/smil:ibcmusic.smil/index.m3u8",
+        },
+        {
+            "name": "NDTV",
+            "url": "https://ndtvstream-lh.akamaihd.net/i/ndtv_24x7_1@300633/master.m3u8",
+        },
+        {
+            "name": "RED BULL TV FHD",
+            "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8",
+        },
+        {
+            "name": "RED BULL HD",
+            "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8",
+        },
+        {
+            "name": "Sky News Uk",
+            "url": "http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8",
+        },
+        {
+            "name": "Sky Tg24 Italy",
+            "url": "http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/stream6/streamPlaylist.m3u8",
+        },
+        {
+            "name": "France 24 ENG",
+            "url": "http://f24hls-i.akamaihd.net/hls/live/221193-b/F24_EN_LO_HLS/master_900.m3u8",
+        },
+        {
+            "name": "France 24 FRA",
+            "url": "http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8",
+        },
+        {
+            "name": "JAP:JAP 24 HD",
+            "url": "https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8",
+        },
+        {
+            "name": "JAP:NHK",
+            "url": "https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8",
+        },
+        {
+            "name": "CNN-Chile",
+            "url": "http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8",
+        },
+        {
+            "name": "News DW",
+            "url": "https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8",
+        },
+        {
+            "name": "News Bloomberg",
+            "url": "https://bblive-liveprodapnortheast.hs.llnwd.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8",
+        },
+        {
+            "name": "FTV Midnight Secrets",
+            "url": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8",
+        },
+        {
+            "name": "FOX-news",
+            "url": "https://1875856221.rsc.cdn77.org/LS-ATL-54548-4/tracks-v1a1/mono.m3u8",
+        },
+        {
+            "name": "FOX-news",
+            "url": "http://1875856221.rsc.cdn77.org/LS-ATL-54548-4/tracks-v1a1/mono.m3u8",
+        },
+        {
+            "name": "FOX-CINEMA",
+            "url": "http://161.0.157.5/PLTV/88888888/224/3221226793/01.m3u8",
+        },
+        {
+            "name": "Deutsche Welle English",
+            "url": "https://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/index_1_av-p.m3u8?sd=10&rebase=on",
+        },
+        {
+            "name": "Deutsche Welle Spain",
+            "url": "https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&rebase=on",
+        },
+        {
+            "name": "Deutsche Welle Deutsch Kultur. 21",
+            "url": "https://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-p.m3u8?sd=10&rebase=on",
+        },
+        {
+            "name": "Sky Tg24 Italy",
+            "url": "https://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/stream6/streamPlaylist.m3u8",
+        },
+        {
+            "name": "Sky News Arabia",
+            "url": "https://stream.skynewsarabia.com/hls/sna_720.m3u8",
+        },
+        {
+            "name": "Sky News Arabia",
+            "url": "http://stream.skynewsarabia.com/hls/sna_720.m3u8",
+        },
+        {
+            "name": "KIX",
+            "url": "http://210.210.155.35/uq2663/h/h07/01.m3u8",
+        },
+        {
+            "name": "Movie-Celestial",
+            "url": "http://210.210.155.35/qwr9ew/s/s33/01.m3u8",
+        },
+        {
+            "name": "Rai-movie-hd",
+            "url": "http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8",
+        },
+        {
+            "name": "TB-TV",
+            "url": "http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8",
+        },
+        {
+            "name": "HBO2",
+            "url": "http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8",
+        },
+        {
+            "name": "HBO2",
+            "url": "http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8",
+        },
+        {
+            "name": "HBO",
+            "url": "http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8",
+        },
+        {
+            "name": "hollywood movies 1",
+            "url": "http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "hollywood movies 2",
+            "url": "http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8",
+        },
+        {
+            "name": "cnn-indonesia",
+            "url": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8",
+        },
+        {
+            "name": "Women Fashion Channel U.S.A",
+            "url": "http://mysisli.com/md2/all-fashionwomen/tracks-v1a1/mono.m3u8",
+        },
+        {
+            "name": "Men Fashion Channel U.S.A",
+            "url": "http://mysisli.com/md2/all-fashionmen/tracks-v1a1/mono.m3u8",
+        },
+        {
+            "name": "FTV L'Original",
+            "url": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/chunklist.m3u8",
+        },
+        {
+            "name": "FTV-Paris",
+            "url": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8",
+        },
+        {
+            "name": "Ftv Top Model",
+            "url": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_top_mode_4qn_27064_top_models_111_hls.smil/chunklist.m3u8",
+        },
+        {
+            "name": "FTV Model Fitness",
+            "url": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_fashion_f6e_27081_fitness_102_hls.smil/chunklist.m3u8",
+        },
+        {
+            "name": "FTV Fashion Weeks",
+            "url": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_fashion_pzb_27045_weeks_103_hls.smil/chunklist.m3u8",
+        },
+        {
+            "name": "FTV Fashion Films",
+            "url": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_fashion_6pw_27050_films_109_hls.smil/chunklist.m3u8",
+        },
+        {
+            "name": "FTV Beauty",
+            "url": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_hair_and_snr_27048_hair_and_mak_105_hls.smil/chunklist.m3u8",
+        },
+        {
+            "name": "FTV Bridal Fashion",
+            "url": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_bridal_a_eur_27063_bridal_110_hls.smil/chunklist.m3u8",
+        },
+        {
+            "name": "FTV Mena",
+            "url": "http://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_middle_e_60b_42114_middle_east_94_hls.smil/chunklist.m3u8",
+        },
+        {
+            "name": "FTV Russia",
+            "url": "http://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_russia_a_ykm_42111_ftv_russia_w_77_hls.smil/chunklist.m3u8",
+        },
+        {
+            "name": "FTV Men",
+            "url": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_f-men_ad_dbn_27047_fmen_104_hls.smil/chunklist.m3u8",
+        },
+        {
+            "name": "Dance Music TV",
+            "url": "https://vcndmtv.teleosmedia.com/stream/dmtv/dmtv/seglist_720p.m3u8",
+        },
+        {
+            "name": "The Country Network",
+            "url": "https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8",
+        },
+        {
+            "name": "ARB Ulduz Azerbaijan",
+            "url": "http://85.132.81.184:8080/ulduz/live/index.m3u8",
+        },
+        {
+            "name": "KlipkarTv",
+            "url": "https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream01/3000/prog_index.m3u8",
+        },
+        {
+            "name": "SE7ENMUSIC-LiveK",
+            "url": "http://cn-gdgz4-cmcc-live-01.live-play.acgvideo.com/live-bvc/live_61157635_5292797.m3u8",
+        },
+        {
+            "name": "XCORPS-TV",
+            "url": "http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8",
+        },
+        {
+            "name": "Animal Planet HD",
+            "url": "http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8?fluxustv.m3u8",
+        },
+        {
+            "name": "hr",
+            "url": "http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/index_3584_av-p.m3u8?sd=10&rebase=on",
+        },
+        {
+            "name": "NexTV",
+            "url": "http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8",
+        },
+        {
+            "name": "Russia Mir 24",
+            "url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8",
+        },
+        {
+            "name": "Russia Mir",
+            "url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8",
+        },
+        {
+            "name": "Miami-TV18+",
+            "url": "http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8",
+        },
+        {
+            "name": "M+MTV",
+            "url": "http://161.0.157.5/PLTV/88888888/224/3221226847/01.m3u8",
+        }
+        
+    ]
+}
