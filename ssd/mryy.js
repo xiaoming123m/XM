@@ -235,3 +235,4 @@ obj.tasks[0].task_action.user_purchase_status = "1";
 //obj.tasks[0].optional = true;
 //obj.tasks[0].finish_star = "1";
 $done({body:JSON.stringify(obj)})
+
