@@ -136,13 +136,29 @@ const url = "https://testflight.apple.com/join/";
 /**
  * 填入要监测的appkey。从testfligt地址获取。
  * 例如"VCIvwk2g,wArXdacJ,2vnRvOTX,LzjySbQx,IdFRwmNy,qDkBu2ur,4Qt2lIm5,ZzqOu8tX,ftCqFe6D,fy7LvHVA,QKqitFwc"
+/*
+Quantumult X https://testflight.apple.com/join/VCIvwk2g
+Thor https://testflight.apple.com/join/wArXdacJ
+Thor https://testflight.apple.com/join/2vnRvOTX
+Anubis https://testflight.apple.com/join/LzjySbQx
+Kitsunebi https://testflight.apple.com/join/IdFRwmNy
+Working Copy - Git client https://testflight.apple.com/join/ZzqOu8tX
+Pythonista 3 https://testflight.apple.com/join/qDkBu2ur
+HTTP Catcher https://testflight.apple.com/join/4Qt2lIm5
+Thor HTTP Sniffer/Capture https://testflight.apple.com/join/ftCqFe6D
+The App List https://testflight.apple.com/join/oV5HiCSz
+LastPass https://testflight.apple.com/join/fy7LvHVA
+1.1.1.1: Faster Internet https://testflight.apple.com/join/QKqitFwc
+Alook: Faster Internet https://testflight.apple.com/join/I4MFSZp1
+网易邮箱pro https://testflight.apple.com/join/2NH4aiKd
+*/  
 */
-const appkey = "VCIvwk2g,LzjySbQx";
+const appkey = "23LA2tmX,VCIvwk2g,wArXdacJ,2vnRvOTX,qDkBu2ur,4Qt2lIm5,ftCqFe6D,fy7LvHVA,QKqitFwc,I4MFSZp1,2NH4aiKd";
 
 //是否在没有tf位置的时候仍然弹出通知，默认不弹出,防止过多无用通知。
 var isNOtify = false;
 const fullstr = /(此 Beta 版本的测试员已满)|(此 Beta 版本目前不接受任何新测试员)/;
-const appnamereg = /<title>加入 Beta 版"(.+)" - TestFlight - Apple<\/title>/;
+const appnamereg = /<title>加入 Beta 版“(.+)” - TestFlight - Apple<\/title>/;
 var proarray = new Array();
 getResult();
 
@@ -166,9 +182,9 @@ function getResult() {
                     appnamereg.test(data);
                     var appname = appnamereg.exec(data);
                     if (!appname != null) {
-                        var reg = /".+"/
+                        var reg = /“.+”/
                         var item = reg.exec(appname[0]);
-                        var name = item[0].replace('"', '').replace('"', '');
+                        var name = item[0].replace('“', '').replace('”', '');
                         if (!fullstr.test(data)) {
                             logdata[name]={
                                 'has':true,
@@ -216,9 +232,12 @@ function getResult() {
             }
         }
         console.log(hastr+nostr);
+         $done();
     }).catch((error) => {
         console.log(error)
     });
 
 
 }
+
+
