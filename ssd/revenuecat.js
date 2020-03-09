@@ -1,4 +1,3 @@
-
 /*
 QX: ^https:\/\/api\.revenuecat\.com\/v1\/subscribers\/ url script-response-body revenuecat.js
 
