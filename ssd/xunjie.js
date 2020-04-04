@@ -1,5 +1,3 @@
-<<<<<<< master
-
 /*
     本作品用于QuantumultX和Surge之间js执行方法的转换
     您只需书写其中任一软件的js,然后在您的js最【前面】追加上此段js即可
@@ -154,6 +152,7 @@ LastPass https://testflight.apple.com/join/fy7LvHVA
 Alook: Faster Internet https://testflight.apple.com/join/I4MFSZp1
 网易邮箱pro https://testflight.apple.com/join/2NH4aiKd
 */  
+*/
 const appkey = "23LA2tmX,VCIvwk2g,wArXdacJ,2vnRvOTX,qDkBu2ur,4Qt2lIm5,ftCqFe6D,fy7LvHVA,QKqitFwc,I4MFSZp1,2NH4aiKd";
 
 //是否在没有tf位置的时候仍然弹出通知，默认不弹出,防止过多无用通知。
@@ -265,27 +264,3 @@ obj.userinfo.vip = [{
     }];
 
 $done({body: JSON.stringify(obj)});
-=======
-/*
-
-Quantumult X 脚本:
-解锁迅捷六款App：清爽视频编辑，迅捷文字识别，录音转文字助手，文字转语音助手，迅捷PDF转换器，迅捷论文查重
-
-[rewrite_local]
-# Xunjie Unlock annual subscriptions （by LTribe）
-^https?:\/\/.*\.xunjie.*\.com\/api\/v\d\/* url script-response-body xunjie.js
-
-[mitm]
-hostname = *.xunjie*.com,
-
-*/
-
-let obj = JSON.parse($response.body);
-obj.userinfo.vip = [{
-      "id": 00000001,
-      "auth_type": 1,
-      "auth_value": 4102469002
-    }];
-
-$done({body: JSON.stringify(obj)});
->>>>>>> origin/master
