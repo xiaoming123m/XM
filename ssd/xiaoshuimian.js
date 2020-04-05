@@ -153,7 +153,7 @@ Alook: Faster Internet https://testflight.apple.com/join/I4MFSZp1
 网易邮箱pro https://testflight.apple.com/join/2NH4aiKd
 */  
 */
-const appkey = "23LA2tmX,VCIvwk2g,wArXdacJ,2vnRvOTX,qDkBu2ur,4Qt2lIm5,ftCqFe6D,fy7LvHVA,QKqitFwc,I4MFSZp1,2NH4aiKd";
+const appkey = "VCIvwk2g,wArXdacJ,2vnRvOTX,qDkBu2ur,4Qt2lIm5,ftCqFe6D,fy7LvHVA,QKqitFwc,I4MFSZp1,2NH4aiKd";
 
 //是否在没有tf位置的时候仍然弹出通知，默认不弹出,防止过多无用通知。
 var isNOtify = false;
