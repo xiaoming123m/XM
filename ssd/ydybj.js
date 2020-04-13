@@ -1,6 +1,12 @@
 /*
-有道云笔记VIP功能
-https://note.youdao.com/yws/(mapi/payment|api/self)
+有道云笔记VIP功能 
+       By Alex0510
+Surge 4:
+http-response https://note.youdao.com/yws/(mapi/payment|api/self) requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/Alex0510/surge/master/Script/ydybj.js
+
+QuanX:       
+https://note.youdao.com/yws/(mapi/payment|api/self) url script-response-body ydybj.js
+
 hostname: note.youdao.com
 */
 
@@ -21,4 +27,3 @@ if ($request.url.indexOf(path2) != -1){
   obj.end = 1867248816000
  }
 $done({body: JSON.stringify(obj)});
-
