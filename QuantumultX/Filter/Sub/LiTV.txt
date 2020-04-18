@@ -1,3 +1,0 @@
-# > LiTV
-host-suffix, litv.tv, Global
-host, litvfreemobile-hichannel.cdn.hinet.net, Global

@@ -1,3 +1,0 @@
-# > TIDAL
-user-agent, TIDAL*dia, Global
-host-suffix, tidal.comdia, Global
