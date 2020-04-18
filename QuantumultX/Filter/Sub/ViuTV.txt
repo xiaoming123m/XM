@@ -1,0 +1,9 @@
+# > Viu(TV)
+user-agent, Viu*, Global
+user-agent, ViuTV*, Global
+host-suffix, viu.com, Global
+host-suffix, viu.tv, Global
+host, api.viu.now.com, Global
+host, d1k2us671qcoau.cloudfront.net, Global
+host, d2anahhhmp1ffz.cloudfront.net, Global
+host, dfp6rglgjqszk.cloudfront.net, Global

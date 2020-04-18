@@ -1,0 +1,14 @@
+# > Bilibili
+user-agent, *bili*, Domestic
+host-suffix, acg.tv, Domestic
+host-suffix, acgvideo.com, Domestic
+host-suffix, b23.tv, Domestic
+host-suffix, biliapi.com, Domestic
+host-suffix, biliapi.net, Domestic
+host-suffix, bilibili.com, Domestic
+host-suffix, bilibili.tv, Domestic
+host-suffix, biligame.com, Domestic
+host-suffix, biligame.net, Domestic
+host-suffix, bilivideo.com, Domestic
+host-suffix, hdslb.com, Domestic
+host-suffix, im9.com, Domestic

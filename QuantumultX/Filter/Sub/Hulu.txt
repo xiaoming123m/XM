@@ -1,0 +1,4 @@
+# > Hulu
+host-suffix, hulu.com, Global
+host-suffix, huluim.com, Global
+host-suffix, hulustream.com, Global

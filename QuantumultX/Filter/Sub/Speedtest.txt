@@ -1,0 +1,3 @@
+# > Speedtest
+host-keyword, speedtest, Speedtest
+host-suffix, ooklaserver.net, Speedtest

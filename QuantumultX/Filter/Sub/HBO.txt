@@ -1,0 +1,5 @@
+# > HBO NOW
+user-agent, HBO%20NOW*, Global
+host-suffix, hbo.com, Global
+host-suffix, hbogo.com, Global
+host-suffix, hbonow.com, Global

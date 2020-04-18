@@ -1,0 +1,4 @@
+# > myTV_SUPER
+user-agent, mytv*, Global
+host-suffix, mytvsuper.com, Global
+host-suffix, tvb.com, Global

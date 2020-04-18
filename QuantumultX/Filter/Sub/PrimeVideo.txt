@@ -1,0 +1,12 @@
+# > Amazon Prime Video
+user-agent, InstantVideo.US*, Global
+user-agent, Prime%20Video*, Global
+host-suffix, aiv-cdn.net, Global
+host-suffix, aiv-delivery.net, Global
+host-suffix, primevideo.com, Global
+host, avodmp4s3ww-a.akamaihd.net, Global
+host, d25xi40x97liuc.cloudfront.net, Global
+host, dmqdd6hw24ucf.cloudfront.net, Global
+host, d22qjgkvxw22r6.cloudfront.net, Global
+host, d1v5ir2lpwr8os.cloudfront.net, Global
+host-keyword, avoddashs, Global

@@ -1,0 +1,6 @@
+# > niconico
+user-agent, Niconico*, Global
+host-suffix, dmc.nico, Global
+host-suffix, nicovideo.jp, Global
+host-suffix, nimg.jp, Global
+host-suffix, socdm.com, Global

@@ -1,0 +1,4 @@
+# > All4
+user-agent, All4*, Global
+host-suffix, c4assets.com, Global
+host-suffix, channel4.com, Global

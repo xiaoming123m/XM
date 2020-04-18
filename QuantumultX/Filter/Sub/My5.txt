@@ -1,0 +1,5 @@
+# > My5
+user-agent, My5*, Global
+host-suffix, channel5.com, Global
+host-suffix, my5.tv, Global
+host, d349g9zuie06uo.cloudfront.net, Global

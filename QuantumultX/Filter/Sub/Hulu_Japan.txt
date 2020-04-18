@@ -1,0 +1,3 @@
+# > Hulu(フールー)
+host-suffix, happyon.jp, Global
+host-suffix, hulu.jp, Global

@@ -1,0 +1,5 @@
+# > Twitch
+host-suffix, twitch.tv, Global
+host-suffix, twitchcdn.net, Global
+host-suffix, ttvnw.net, Global
+host-suffix, jtvnw.net, Global

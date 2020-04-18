@@ -1,0 +1,4 @@
+# > JOOX
+user-agent, WeMusic*, Global
+user-agent, JOOX*, Global
+host-suffix, joox.com, Global
