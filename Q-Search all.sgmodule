@@ -1,15 +1,9 @@
-#!name=🔍Q-Search-All in one
+#!name=🔍Q-Search all
 #!desc=Browser Search Add-ons, Modified from module by Neurogram
 #!system=macOS
 
-# Q-Search 
-# Modified by nzw9314 
-# From Neurogram (https://raw.githubusercontent.com/Neurogram-R/Surge/master/module/Q-Search.sgmodule)
-
 # - Safari 内输入 命令 + 空格 + 关键词 快速指定搜索引擎搜索
-
 #  注：先进入设置更改 Safari 默认搜索为 DuckDuckGO
-
 # 可自行修改指令或者添加搜索引擎
 
 # gh：GitHub 搜索
@@ -140,3 +134,5 @@
 
 [MITM]
 hostname = %APPEND% duckduckgo.com
+
+
