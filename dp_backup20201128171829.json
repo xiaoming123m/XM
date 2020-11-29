@@ -1,0 +1,455 @@
+{"uuid":"28c28cdd-7b43-4af8-80c4-c375b378637c",
+"favs": [
+
+{
+"name":"电台-全 - 北京新闻广播 FM100.6",
+"url": "PyDBQlDy+uu3asERL28o3Vn9GCpxi9o1RXh59ZG3TxA+/JdYgwKmXGvZMPfkoACN",
+"logo": "no image",
+"type": "radio"
+},
+{
+"name":"电台-全 - 北京好音乐 FM95.9",
+"url": "2YKXoQFFxpg9qillb6hq5cSLDCBnQmVxeVdD5NxB7sDZ1uplir1LR8mJvfikQLyT",
+"logo": "no image",
+"type": "radio"
+},
+{
+"name":"电台-全 - CRI NEWS Plus AM1008",
+"url": "gHAiRqCrMh3i9CPH8sX9splDdwoXEK059zY0OITNi+c=",
+"logo": "no image",
+"type": "radio"
+},
+{
+"name":"电台-全 - CCTV-13 新闻",
+"url": "AkkieoAzDDckJEp4FcMkoVWx5nR9eZyJXsglu+p/hoq3XNsOHsKvh9/WRCqvsb0G7bfdWf5lKBVH034zJiL5jWjgxNmtDXl+FqaoFxGRLes=",
+"logo": "no image",
+"type": "radio"
+},
+{
+"name":"电台-全 - CRI 轻松调频 FM91.5",
+"url": "gHAiRqCrMh3i9CPH8sX9shxGGao0CUW7cbjlh1l3uH8=",
+"logo": "no image",
+"type": "radio"
+},
+{
+"name":"英语新闻电台 - BBC World Service",
+"url": "k3P7u2EbYqNzdsnih4czPlxFhjN7yvz+m2NeiDk+ZmNFlItktEfKir9PGyr5Hg2FngWeI6Yu/FL6HTVmgk7JZA==",
+"logo": "https://static.mytuner.mobi/media/tvos_radios/Lz9bbsba4c.png",
+"type": "radio"
+},
+{
+"name":"电台-全 - CRI Hit FM FM88.7",
+"url": "2YKXoQFFxpg9qillb6hq5aggXQkwCh/tki4g8Yg0iHv87E+72jmFudzakgZ8YcHM",
+"logo": "no image",
+"type": "radio"
+},
+{
+"name":"电台-全 - CRI 轻松调频 FM91.5",
+"url": "PyDBQlDy+uu3asERL28o3XrNusASSh5HqUTtirVCIu/hW9megEh6y4yaqeJ6jPGM",
+"logo": "no image",
+"type": "radio"
+},
+{
+"name":"电台-全 - 北京动听调频 Metro FM94.5",
+"url": "s2IFgCQZj0urj6OnJ6wG1H48UmMgIpWM5qlQsbQtCTO/NkR/x/hD5Oefnx+rNE7vKbCWpGFgElhRWmTUaFcfRw==",
+"logo": "no image",
+"type": "radio"
+},
+{
+"name":"电台-全 - CRI 环球资讯广播 FM90.5",
+"url": "PyDBQlDy+uu3asERL28o3bUCXmS7TX0vvMJqRo8W14/hW9megEh6y4yaqeJ6jPGM",
+"logo": "no image",
+"type": "radio"
+},
+{
+"name":"电台-全 - CRI NEWS Plus AM846",
+"url": "2YKXoQFFxpg9qillb6hq5T3FdQcbROkMq5KsKUQwQHr87E+72jmFudzakgZ8YcHM",
+"logo": "no image",
+"type": "radio"
+},
+{
+"name":"英语新闻电台 - MSNBC",
+"url": "lY2laxeuAyUhzELxT4lC7r/dluQ1xCAxIwz4vzApesNinOIuvnL9riK4ssSOUl5GcLEd4SPhkN/GSOLhlXa/oA==",
+"logo": "https://gitee.com/zhang_san_dao/tvlogo/raw/master/radio/MSNBC.jpg",
+"type": "radio"
+},
+{
+"name":"电台-全 - 北京外语广播 AM774",
+"url": "2YKXoQFFxpg9qillb6hq5R8uXL3SleFCTcfUVXnO3E9zWFICyU2canNV36rTRPDI",
+"logo": "no image",
+"type": "radio"
+},
+{
+"name":"国内电台 - Metro Radio FM94.5",
+"url": "fsLLe8Z3rdwPCHBT259fgILqJQ6XMT4YHySw9sPNl7dIVOk7C62QeE6JJ4ujeiKh",
+"logo": "http://pic.qingting.fm/2016/1202/20161202113624.jpeg",
+"type": "radio"
+}],
+"subscriptions": [
+
+{
+"name":"人文自然",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/tv/json/docu.json"
+},
+{
+"name":"嘀哩哩",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/xweb/dilili.xweb"
+},
+{
+"name":"片库-电影",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/xweb/pianku1.xweb"
+},
+{
+"name":"[TV][Live][HongKong]",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/tv/json/hk.json"
+},
+{
+"name":"寰宇全視界",
+"url": "https://www.youtube.com/channel/UCiOR3zQCU-tLza5g1MuqABA"
+},
+{
+"name":"[TV][Live][UK]",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/tv/json/uk.json"
+},
+{
+"name":"LVV2|综艺",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/xweb/lvv2.xweb"
+},
+{
+"name":"韩剧网-最新韩剧",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/xweb/hanmi1.xweb"
+},
+{
+"name":"星马",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/tv/json/sg.json"
+},
+{
+"name":"色色 3w+",
+"url": "https://gist.githubusercontent.com/m3u8playlist/c7ad2b953f900a8c9ba556ec80c3e860/raw/sese.json"
+},
+{
+"name":"国内电台",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/radio/fm.json"
+},
+{
+"name":"[Radio][日本]",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/radio/jpradio.json"
+},
+{
+"name":"奈飞影视|动漫",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/xweb/nf4.xweb"
+},
+{
+"name":"91美剧网",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/xweb/91mjw1.xweb"
+},
+{
+"name":"[Radio][英国]",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/radio/ukradio.json"
+},
+{
+"name":"英语新闻电台",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/radio/news.json"
+},
+{
+"name":"追新番-最近更新",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/xweb/zxfun.xweb"
+},
+{
+"name":"韩剧网-最新电影",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/xweb/hanmi2.xweb"
+},
+{
+"name":"片库-剧集",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/xweb/pianku2.xweb"
+},
+{
+"name":"[TV][Live][新闻-英语]",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/tv/json/news_english.json"
+},
+{
+"name":"[Radio][新加坡]",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/radio/sgradio.json"
+},
+{
+"name":"[Radio][日本]",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/radio/jpradio.json"
+},
+{
+"name":"电台-全",
+"url": "https://raw.githubusercontent.com/m3u8playlist/m3u8/master/radioall.json"
+},
+{
+"name":"国内电台",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/radio/fm.json"
+},
+{
+"name":"[TV][Live][us]",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/tv/json/us.json"
+},
+{
+"name":"[TV][Live][Taiwan]",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/tv/json/tw.json"
+},
+{
+"name":"奈飞影视|电影",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/xweb/nf1.xweb"
+},
+{
+"name":"英语新闻电台",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/radio/news.json"
+},
+{
+"name":"[TV][Live][macau]",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/tv/json/macau.json"
+},
+{
+"name":"[Radio][香港]",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/radio/hkradio.json"
+},
+{
+"name":"奈飞影视|综艺",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/xweb/nf3.xweb"
+},
+{
+"name":"LVV2|动漫",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/xweb/lvv1.xweb"
+},
+{
+"name":"[Radio][美国]",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/radio/usradio.json"
+},
+{
+"name":"LVV2|剧集",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/xweb/lvv3.xweb"
+},
+{
+"name":"51看电影-港剧",
+"url": "https://gitee.com/xiaoming123mm/x.web/raw/master/txt/51kdy1.txt"
+},
+{
+"name":"wwdc2020",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/xweb/wwdc20.xweb"
+},
+{
+"name":"维赞-动漫",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/xweb/abcoa3.xweb"
+},
+{
+"name":"[TV][Live][Japan]",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/tv/json/jp.json"
+},
+{
+"name":"91美剧网-每日更新",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/xweb/91mjw2.xweb"
+},
+{
+"name":"片库-动漫",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/xweb/pianku3.xweb"
+},
+{
+"name":"奈飞影视|电视剧",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/xweb/nf2.xweb"
+},
+{
+"name":"[Radio][新加坡]",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/radio/sgradio.json"
+},
+{
+"name":"维赞-电视剧",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/xweb/abcoa2.xweb"
+},
+{
+"name":"[TV][LIVE]哈尔滨移动",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/tv/json/hebyd.json"
+},
+{
+"name":"[TV][LIVE]广西联通",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/tv/json/gxlt.json"
+},
+{
+"name":"[Radio][美国]",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/radio/usradio.json"
+},
+{
+"name":"维赞-电影",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/xweb/abcoa1.xweb"
+},
+{
+"name":"[Radio][英国]",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/radio/ukradio.json"
+},
+{
+"name":"[Radio][香港]",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/radio/hkradio.json"
+},
+{
+"name":"must|无码",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/xweb/must1.xweb"
+},
+{
+"name":"57爆新聞",
+"url": "https://www.youtube.com/channel/UCUj9oqtKhwSfM6YWD3qyMnQ"
+},
+{
+"name":"环亚无码1[10000+]",
+"url": "https://gist.githubusercontent.com/m3u8playlist/8ae22604690c2106b596b57fe3246bac/raw/huanya1.json"
+},
+{
+"name":"關鍵時刻",
+"url": "https://www.youtube.com/channel/UCKQVSNdzGBJSXaUmS4TOWww"
+},
+{
+"name":"hellavgirls|热门",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/xweb/hg.xweb"
+},
+{
+"name":"三立iNEWS",
+"url": "https://www.youtube.com/channel/UCoNYj9OFHZn3ACmmeRCPwbA"
+},
+{
+"name":"NYG|最新更新",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/xweb/nyg.xweb"
+},
+{
+"name":"BBC News",
+"url": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA"
+},
+{
+"name":"av8m|最新更新",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/xweb/av8m1.xweb"
+},
+{
+"name":"Fox Business",
+"url": "https://www.youtube.com/channel/UCCXoCcu9Rp7NPbTzIvogpZg"
+},
+{
+"name":"米奇沃克斯",
+"url": "https://www.youtube.com/channel/UCpzx9sMpCwKP_xTwoYZx7lA"
+},
+{
+"name":"环亚无码",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/xweb/hywm.xweb"
+},
+{
+"name":"富二代-野合车震",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/xweb/ttxpp11.xweb"
+},
+{
+"name":"Vedio Talk",
+"url": "https://www.youtube.com/channel/UCaMih5WXqoXq7Hg0S_XJdOg"
+},
+{
+"name":"富二代-娇妻素人",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/xweb/ttxpp7.xweb"
+},
+{
+"name":"JS神技能",
+"url": "https://www.youtube.com/channel/UC6tPP3jOTKgjqfDgqMsaG4g"
+},
+{
+"name":"富二代-美熟少妇",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/xweb/ttxpp6.xweb"
+},
+{
+"name":"美西太太",
+"url": "https://www.youtube.com/channel/UCw5Cl7DKCZTsRKWg_m9cplA"
+},
+{
+"name":"富二代-自慰群交",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/xweb/ttxpp10.xweb"
+},
+{
+"name":"Echo‘s Ev Life",
+"url": "https://www.youtube.com/channel/UCPLoPImN5CrkrrU-mE-l6-Q"
+},
+{
+"name":"甜美的旋律 Sweet Melody",
+"url": "https://www.youtube.com/channel/UCFHm6HRsTQkQ60FsSYSTssg"
+},
+{
+"name":"富二代-国产乱伦",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/xweb/ttxpp9.xweb"
+},
+{
+"name":"富二代-国产精品",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/xweb/ttxpp1.xweb"
+},
+{
+"name":"KKBOX HIT",
+"url": "https://www.youtube.com/channel/UCN4qcPfDEKHpqPchx1kjNmw"
+},
+{
+"name":"富二代-女神学生",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/xweb/ttxpp5.xweb"
+},
+{
+"name":"富二代-职场同事",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/xweb/ttxpp12.xweb"
+},
+{
+"name":"富二代-抖阴视频",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/xweb/ttxpp4.xweb"
+},
+{
+"name":"富二代-主播大秀",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/xweb/ttxpp3.xweb"
+},
+{
+"name":"富二代-国产名人",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/xweb/ttxpp13.xweb"
+},
+{
+"name":"富二代-精品三级",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/xweb/ttxpp2.xweb"
+},
+{
+"name":"富二代-空姐模特",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/xweb/ttxpp8.xweb"
+},
+{
+"name":"javtube|巨乳",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/xweb/javtube2.xweb"
+},
+{
+"name":"javtube|乱伦",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/xweb/javtube3.xweb"
+},
+{
+"name":"javtube",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/xweb/javtube1.xweb"
+},
+{
+"name":"jable|最新更新",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/xweb/jable.xweb"
+},
+{
+"name":"javtube|调教",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/xweb/javtube6.xweb"
+},
+{
+"name":"javtube|制服",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/xweb/javtube5.xweb"
+},
+{
+"name":"javtube|人妻",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/xweb/javtube4.xweb"
+},
+{
+"name":"javtube|强奸",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/xweb/javtube8.xweb"
+},
+{
+"name":"javtube|出轨",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/xweb/javtube7.xweb"
+},
+{
+"name":"iwant|最新",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/xweb/iwant.xweb"
+},
+{
+"name":"爱骑艺|日本",
+"url": "https://gitee.com/zhang_san_dao/tv/raw/master/xweb/aqy1.xweb"
+}]
+,"xwebs": [
+]}
